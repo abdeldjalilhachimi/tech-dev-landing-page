@@ -1,0 +1,47 @@
+
+/* Smartphone  and Tablet  */
+
+@media (max-width:768px) 
+{
+    .subscribe .form-control {
+        margin: 10px auto;
+        width: 400px;
+    }
+    .price_table .price-box {
+        width: 300px;
+        margin: 10px auto ;
+    }
+    .sk-chase {
+        width: 40px;
+        height: 40px;
+        margin: 50% auto;
+        position: relative;
+        animation: sk-chase 2.5s infinite linear both;
+    }
+
+}
+
+/* Small Screen */
+
+@media (min-width:767px) and (max-width:991px) 
+{
+    .price_table .price-box{
+        width: 300pxs;
+    }
+
+}
+/* Medium Screen */
+
+@media (min-width:992px) and (max-width:1199px) 
+{
+  
+
+}
+
+/*  Large Screen  */
+
+@media (min-width:1200px)
+{
+   
+
+}

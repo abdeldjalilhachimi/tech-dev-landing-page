@@ -1,0 +1,27 @@
+/***** Start Default theme ****/
+
+/* Active Link Navbar  */
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover, .dropdown-menu .divider, .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus, .carousel-indicators .active, .option-box .color-option, .option-box .gear-check,
+.btn-primary  {
+    background-color: #edfa20;
+}
+
+/*  Link Navbar  */
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand, .navbar-inverse .navbar-nav>li>a, .about h1 span, .features .feat span.glyphicon, .testmonial span, .footer h3
+,.statics .data span.glyphicon {
+    color: #edfa20;
+}
+
+/*  Drop dwon Menu */
+
+.dropdown-menu {
+    border-top: 1px solid #edfa20;
+}
+
+.testmonial .carousel-indicators li, .price_table .price-box {
+    border: 1px solid #edfa20;
+}
+
+/**** End Default theme ****/
